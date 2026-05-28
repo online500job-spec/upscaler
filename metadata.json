@@ -1,0 +1,6 @@
+{
+  "name": "Upscale.ai",
+  "description": "High-fidelity local on-device image upscaler and visual detail enhancer with dual-layer sharpening, Lanczos/Bicubic convolution engines, face detail enhancement, and recent history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
